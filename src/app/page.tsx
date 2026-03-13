@@ -20,7 +20,7 @@ export default function LandingPage() {
       borderRadius="soft"
       contentWidth="medium"
       sizing="mediumLarge"
-      background="floatingGradient"
+      background="circleGradient"
       cardStyle="glass-elevated"
       primaryButtonStyle="shadow"
       secondaryButtonStyle="layered"
@@ -43,7 +43,7 @@ export default function LandingPage() {
         <HeroBillboard
           title="Authentic Italian Cuisine, Timeless Tradition"
           description="Experience the flavors of Italy in an elegant setting. From handmade pasta to wood-fired specialties, every dish celebrates generations of culinary heritage and the warmth of Italian hospitality."
-          background={{ variant: "floatingGradient" }}
+          background={{ variant: "sparkles-gradient" }}
           tag="Est. 2005"
           tagIcon={Sparkles}
           imageSrc="http://img.b2bpic.net/free-photo/chef-making-pasta-near-rolling-pin_23-2148360859.jpg"
